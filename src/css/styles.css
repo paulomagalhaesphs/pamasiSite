@@ -1,0 +1,45 @@
+/* Declarações de Variáveis e Fontes/\ */
+
+:root {
+    --vermelho: #98191E;
+    --azul: #1B3559;
+    --preto: #171717;
+    --bege: #F5F2EE;
+}
+
+@font-face {
+    font-family: 'Poppins';
+    src: url('../fonts/Poppins-Regular.ttf') format('truetype');
+    font-weight: 400;
+    font-display: swap; 
+}
+
+@font-face {
+    font-family: 'Poppins';
+    src: url('../fonts/Poppins-Medium.ttf') format('truetype');
+    font-weight: 500;
+    font-display: swap; 
+}
+
+@font-face {
+    font-family: 'Poppins';
+    src: url('../fonts/Poppins-SemiBold.ttf') format('truetype');
+    font-weight: 600;
+    font-display: swap; 
+}
+
+@font-face {
+    font-family: 'Poppins';
+    src: url('../fonts/Poppins-Bold.ttf') format('truetype');
+    font-weight: 700;
+    font-display: swap; 
+}
+
+* {
+    background-color: #ffffff;
+    font-family: 'Poppins', sans-serif;
+}
+
+/* Menu de Navegação e rodapé */
+
+
