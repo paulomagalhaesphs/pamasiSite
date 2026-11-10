@@ -225,3 +225,15 @@ footer {
     width: 17.8125rem;
     height: 2.3125rem;
 }
+
+/* Estilizações da página INDEX */
+
+.sessao-1 {
+    padding: 0;
+    margin: 0;
+}
+
+.sessao-1 img {
+    width: 100vw;
+    max-height: 25.375rem;
+}
